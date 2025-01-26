@@ -21,7 +21,7 @@ padding: 20px;
     display: inline-block;
   }
   
-.flavor, .desserts {
+.flavor, .dessert {
 text-align: left;
 width: 75%
 }
