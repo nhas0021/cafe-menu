@@ -1,3 +1,17 @@
+body {
+    background-image: url('coffeebeans.jpg');
+    background-repeat: no-repeat; /* Prevents tiling */
+    background-size: cover; /* Makes the image cover the entire body */
+    background-position: center; /* Centers the image */
+}
+  
 h1, h2, p {
-    text-align: center;
-  }
+text-align: center;
+}
+  
+.menu {
+width: 80%;
+background-color: burlywood;
+margin-left: auto;
+margin-right: auto;
+}
