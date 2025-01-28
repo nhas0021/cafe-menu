@@ -47,6 +47,7 @@ h1, h2 {
 
 h1{
   font-size : 40px;
+  margin-top: 0;
 }
 
 h2{
@@ -64,3 +65,23 @@ hr {
 }
 
 /*FOOTER*/
+
+footer {
+  font-size: 14px
+}
+
+a {
+  color: black
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
